@@ -1,3 +1,8 @@
+fun tarek(){
+    print("Hello I Tarek")
+}
+
+
 
 fun Alizainy() = print("hi ali zainy")
 fun alizainy2() = print("hi again")
