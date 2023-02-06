@@ -23,3 +23,7 @@ fun ethaar() {
 fun main() {
     println("Hello every one")
 }
+
+fun mohammed(){
+    println("Hello from mohammed")
+}
