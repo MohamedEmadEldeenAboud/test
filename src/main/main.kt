@@ -8,6 +8,13 @@ fun alizainy2() = print("hi again")
 fun fixAbanoNameFunctinoHere {
     print("Hello")
 }
+fun ethaar() {
+    println("jk")
+
+}
+
+
+
 fun main() {
     println("Hello every one")
 }
