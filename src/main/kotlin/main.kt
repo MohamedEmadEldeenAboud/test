@@ -10,7 +10,7 @@ fun alizainy2() = print("hi again")
 
 
 // ameer fix issue here
-fun fixAbanoNameFunctinoHere {
+fun fixAbanobNameFunctionHere() {
     print("Hello")
 }
 fun ethaar() {
@@ -21,7 +21,11 @@ fun ethaar() {
 
 
 fun main() {
-    println("Hello every one")
+    mohammed()
+    ethaar()
+    tarek()
+    alizainy2()
+    fixAbanobNameFunctionHere()
 }
 
 fun mohammed(){
